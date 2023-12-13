@@ -7,7 +7,7 @@ The focus is on the Docker Engine, Docker Compose, and the installation of some 
   - [RHEL 8](rhel8/index.md)
   - [DNF](dnf/index.md)
   - [The Docker Platform](docker/index.md)
-  - [DinoForce "Sec" Platform](dinoforce_sec_platform/index.md)
+  - [Cybersecurity Platform](dinoforce_sec_platform/index.md)
 - Hands-on Lab
   - [Docker Engine](docker/engine/index.md)
       - [Installation and Configuration](docker/engine/index.md)
