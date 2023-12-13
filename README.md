@@ -1,5 +1,6 @@
-# Dinohead's Cloud Native Application 101 Training
-Welcome to Dinohead's Cloud Native Application 101 training. We are going to focus on the Docker Engine, Docker Compose, and the installation of some containers (applications).
+# Cloud Native Application 101 Training 
+### Developed by Mike Howard to support 101 Traning for System Integrators
+The focus is on the Docker Engine, Docker Compose, and the installation of some containers (applications).
 
 ## Agenda
 - Software Utilized
