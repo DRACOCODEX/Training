@@ -1,4 +1,4 @@
-# Dinohead’s DinoForce Cybersecurity Platform (Draco)
+# Cybersecurity Platform
 
 The [Dinoforce](https://dinoforce.com) "DevSecOps" Platform contains all of the tools to standup a Software Factory and begin modernizing Applications on Day One. This consists of Three (3) Integrated Independent Platforms for Development, Cybersecurity, and Operations (DevSecOps). The focus for today's training is to standup a small sub-set of the DinoForce "Sec" Platform.
 
