@@ -1,6 +1,8 @@
 # Cybersecurity Platform
 
-The [Dinoforce](https://dinoforce.com) "DevSecOps" Platform contains all of the tools to standup a Software Factory and begin modernizing Applications on Day One. This consists of Three (3) Integrated Independent Platforms for Development, Cybersecurity, and Operations (DevSecOps). The focus for today's training is to standup a small sub-set of the DinoForce "Sec" Platform.
+The [Dinoforce](https://dinoforce.com) "DevSecOps" Platform, contains all of the tools to standup a Software Factory and begin modernizing Applications on Day One. This consists of Three (3) Integrated Independent Platforms for Development, Cybersecurity, and Operations (DevSecOps). This platform was a collarboration effort of multiple organizations and people, including Norseman Defense Technologies, Elastic, Gitlab, and Dinohead in 2021. The architect, lead engineer, and developer was Michael Howard.
+
+The focus for today's training is to standup a small sub-set of the DinoForce "Sec" Platform.  
 
 ## Applications Used for this Training
   - [Keycloak](https://www.keycloak.org): is an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code.
