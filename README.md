@@ -1,5 +1,5 @@
 # Cloud Native Application 101 Training 
-### Developed by Mike Howard to support 101 Traning for System Integrators
+### Developed by Mike Howard in 2021 to support 101 Traning for System Integrators
 The focus is on the Docker Engine, Docker Compose, and the installation of some containers (applications).
 
 ## Agenda
