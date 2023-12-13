@@ -17,4 +17,4 @@ The focus is on the Docker Engine, Docker Compose, and the installation of some 
       - [Hello World](docker/compose/gettingstarted.md)
       - [Commands](docker/compose/gettingstarted.md)
   - [Deploy Simple Web Server](docker/testing/index.md)
-  - [Deploy 2 Applications from the DinoForce "Sec" Platform](dinoforce_sec_platform/index.md)
+  - [Deploy 2 Applications from the Cybersecurity Platform](dinoforce_sec_platform/index.md)
