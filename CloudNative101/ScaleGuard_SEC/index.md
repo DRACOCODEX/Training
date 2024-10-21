@@ -1,6 +1,11 @@
+<!--- 
+@Author: Architect and Developer: Michael Howard
+@Date: Feb, 2021
+ -->
+
 # 🛡️ScaleGuard™️⚙️ -- "Armor Your Software Factory with DRACO-Grade DevSecOps"
   
-ScaleGuard, DRACOFORCE's "DevSecOps" Platform, provides protection, strength, and resilience,  while maintaining the idea of scalable, flexible operations. It contains all of the tools to standup a Software Factory and begin modernizing Applications on Day One. This consists of Three (3) Integrated Independent Platforms for Development, Cybersecurity, and Operations (DevSecOps). This platform was a collarboration effort of multiple organizations and people, including Elastic, Gitlab, and DRACOFORCE in 2021. The architect, lead engineer, and developer was Michael     Howard.
+ScaleGuard, DRACOFORCE's "DevSecOps" Platform, provides protection, strength, and resilience,  while maintaining the idea of scalable, flexible operations. It contains all of the tools to standup a Software Factory and begin modernizing Applications on Day One. This consists of Three (3) Integrated Independent Platforms for Development, Cybersecurity, and Operations (DevSecOps).
 
 # Cybersecurity Platform
 The focus for today's training is to standup a sub-set of the ScaleGuard Platform: Cybersecurity.  
